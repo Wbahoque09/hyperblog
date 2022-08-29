@@ -1,4 +1,4 @@
 Hola XD !!
-'Hola Mundo'; 
+'Hello Mundo'; 
 Aprendiendo.jsx
-Cambio #2 desde el vsiual
+Cambio #2 desde el visual
